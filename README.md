@@ -21,5 +21,3 @@ Discord: zerzym#9854
 
 [Website](https://zmega.cf)
 
-### Interests
-
