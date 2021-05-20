@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋: Hi there
 
-<!--
-**zerzym/zerzym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a companion cube.
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+### 📞 Contact me 
+
+Discord: zerzym#9854
+
+[Website](https://zmega.cf)
+
+### Interests
+
