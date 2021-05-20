@@ -15,6 +15,8 @@ Python
 
 C
 
+HTML (pretty much exclusively for my website)
+
 ### 📞 Contact me 
 
 Discord: zerzym#9854
