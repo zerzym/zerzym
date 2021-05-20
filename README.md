@@ -1,12 +1,15 @@
-### 👋: Hi there
-
-I am a companion cube.
-
-![](https://img.shields.io/badge/OS-Windows-blueviolet?style=for-the-badge&logo=#0078D6)
-![](https://img.shields.io/badge/Language-Python-blueviolet?style=for-the-badge&logo=#0078D6)
-![](https://img.shields.io/badge/Language-C-blueviolet?style=for-the-badge&logo=#0078D6)
+### My stats
 
 ![](https://github-readme-stats.vercel.app/api?username=zerzym&theme=dark&show_icons=true)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zerzym&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=zerzym)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### (Programming) Languages I know or am learning:
+
+Python
+
+C
 
 ### 📞 Contact me 
 
