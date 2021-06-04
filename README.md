@@ -13,9 +13,11 @@
 
 Python
 
-C
+C (halted indefinitely)
 
 HTML (pretty much exclusively for my website)
+
+C++
 
 ### 📞 Contact me 
 
