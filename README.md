@@ -15,9 +15,9 @@ Python
 
 C++
 
+Lua 
+
 ### 📞 Contact me 
 
 Discord: zerzym#9854
-
-[Website](https://zmega.cf)
 
