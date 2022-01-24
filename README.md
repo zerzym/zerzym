@@ -17,5 +17,5 @@
 
 ### 📞 Contact me 
 
-Discord: [zerzym#9854](https://discordapp.com/users/889634598907174943)
+Discord: [zerzym#9854](https://discordapp.com/users/808716375379935242)
 
