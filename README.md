@@ -4,7 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=zerzym&theme=dark&show_icons=true)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=zerzym&repo=github-readme-stats&theme=dark&show_icons=true)](https://github.com/)
+![test](https://zerzym/zerzym/secret/test.md)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=zerzym&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
